@@ -1,0 +1,13 @@
+name = "gss"
+uuid = "0885e100-ef5f-4d21-a7ab-23275e15a584"
+authors = ["Aleksandra Pogonska"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
